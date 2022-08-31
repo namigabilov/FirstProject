@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProject", "FirstProjec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-100cut ededlerin cemi", "1-100cut ededlerin cemi\1-100cut ededlerin cemi.csproj", "{C8BD22C0-16F2-4506-9D7E-EC6ED2EF0A06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ededin reqemli", "Ededin reqemli\Ededin reqemli.csproj", "{0395A9F7-260B-47CA-93AC-ABB987E04D8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8BD22C0-16F2-4506-9D7E-EC6ED2EF0A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8BD22C0-16F2-4506-9D7E-EC6ED2EF0A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8BD22C0-16F2-4506-9D7E-EC6ED2EF0A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0395A9F7-260B-47CA-93AC-ABB987E04D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0395A9F7-260B-47CA-93AC-ABB987E04D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0395A9F7-260B-47CA-93AC-ABB987E04D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0395A9F7-260B-47CA-93AC-ABB987E04D8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
